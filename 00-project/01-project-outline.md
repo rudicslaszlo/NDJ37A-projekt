@@ -14,7 +14,7 @@ A projekt célja rendszer megvalósítása, amely közúti videófelvételeken a
 - **Elsődleges cél:** Működő, verziókezelt rendszer létrehozása közúti videófelvételek automatikus forgalomelemzésére.
 - **Célfelhasználók / érintettek:** A közúti forgalmat elemző kutatók és fejlesztők, valamint a forgalmi adatok kiértékelésével foglalkozó szakemberek.
 - **Mérhető sikerkritériumok:** A felhasználó videót tud betölteni a rendszer detektálja és követi a járművenként a trajektóriát, becsült méretet és sebességet határoz meg; kategóriánkénti járműszámot, átlagos és eloszlásalapú sebességi mutatókat, valamint forgalomintenzitást számít; a fuzzy és a merev kategorizálás eredményei reprodukálható módon összehasonlíthatók.
-- **Korlátok:** A megoldásnak kezelnie kell a takarásokat, megszakadó trajektóriákat és nem feldolgozható bemeneteket. A detektálási és követési módszereket pontosság, identitáscsere, futási sebesség és erőforrásigény alapján kell összehasonlítani. A projekt nem terjed ki a közúti infrastruktúra valós idejű vezérlésére vagy hatósági célú járműazonosításra.
+- **Korlátok:** A megoldásnak kezelnie kell a takarásokat, megszakadó trajektóriákat, különböző fényvisznyokat és nem feldolgozható bemeneteket.
 
 ## Hatókör
 
