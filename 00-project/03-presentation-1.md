@@ -86,4 +86,4 @@ flowchart LR
 <!-- @set-align left -->
 ### Visszajelzések beépitése
 <!--@gap 4-->
-### Technikai véglegesítése
+### Technikai javaslat véglegesítése
